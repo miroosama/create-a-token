@@ -10,4 +10,5 @@ Then:
 
 ### `yarn start`
 
-using node v12.13.0
+environment: 
+node v12.13.0
